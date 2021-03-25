@@ -1,0 +1,23 @@
+{
+  "name": "nunnubot",
+  "version": "1.0.0",
+  "description": "KakaoTalk Bot With NodeKakao",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunnu1028/nunnuBot.git"
+  },
+  "author": "nunnu1028",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunnu1028/nunnuBot/issues"
+  },
+  "homepage": "https://github.com/nunnu1028/nunnuBot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-kakao": "^4.1.0"
+  }
+}
